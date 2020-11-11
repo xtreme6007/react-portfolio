@@ -40,7 +40,7 @@ class Contact extends Component {
             <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
 
-					   <h4>Location and Phone</h4>
+					   <h4>Contact Me Here</h4>
 					   <p className="address">
 						   {name}<br />
 						   {city}, {state} {zip}<br />
