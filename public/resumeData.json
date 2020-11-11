@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Preston Nichols",
-    "description":"I am a Full-Stak Web Developer with experince in many front end and backend technologies",
+    "description":"I am a Full-Stcak Web Developer with experince in many front end and backend technologies",
     "image":"Brand-logo.png",
-    "bio":"Full Stack Web Developer with a background in customer service and management. Recognized as a loyal, hardworking, and resourceful problem solver. Excellent client relationship building skills with a dedication to quality. Graduate of Full-Stack Web Development  at Southern Methodist University.",
+    "bio":"Full-Stack Web Developer with a background in customer service and management. Recognized as a loyal, hardworking, and resourceful problem solver. Excellent client relationship building skills with a dedication to quality. Graduate of Full-Stack Web Development  at Southern Methodist University.",
     "contactmessage":"Please contact for more information.",
     "email": "prestonnichols96@gmail.com",
     "phone": "940-765-5312",
@@ -43,7 +43,7 @@
     ],
     "work":[
       {
-        "company":"Razzos",
+        "company":"Razzoos",
         "title":"Key Manager",
         "years":"March 2019 - March 2020",
         "description":"Greeted and served customers with a friendly face and respectful attitude in order to ensure each guest had an enjoyable experience.Managed over 30 employees resolving conflicts and ensuring every guest’s satisfaction.Followed proper cash handling procedures when checking out servers and closing down the restaurant."
