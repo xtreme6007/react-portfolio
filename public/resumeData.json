@@ -1,46 +1,32 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
+    "name":"Preston Nichols",
+    "description":"I am a Full-Stak Web Developer with experince in many front end and backend technologies",
+    "image":"Brand-logo.png",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "contactmessage":"Please contact for more information.",
+    "email": "prestonnichols96@gmail.com",
+    "phone": "940-765-5312",
+    "github":"https://github.com/xtreme6007",
+    
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Dallas",
+      "state":"Texas",
+      "zip": "(75234)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    
+    "resumedownload":"public/images/Preston-Nichols-Resume.docx",
     "social":[
-      {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
+     
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/preston-nichols-1aa72084/",
         "className":"fa fa-linkedin"
       },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
+      
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/xtreme6007",
         "className":"fa fa-github"
       }
     ]
@@ -49,94 +35,87 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Southern Methodist University",
+        "degree":"Certificate in Full-Stack Web Development",
+        "graduated":"December 2020",
+        "description":"A 24-week intensive program focused on gaining technical programming skills in HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, Node Js, MySQL, MongoDB, Express, Handelbars.js & ReactJS. "
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Razzos",
+        "title":"Key Manager",
+        "years":"March 2019 - March 2020",
+        "description":"Greeted and served customers with a friendly face and respectful attitude in order to ensure each guest had an enjoyable experience.Managed over 30 employees resolving conflicts and ensuring every guest’s satisfaction.Followed proper cash handling procedures when checking out servers and closing down the restaurant."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Razzoos",
+        "title":"Head Bartender",
+        "years":"January 2018 - March 2019",
+        "description":"Provided an exceptional level of customer service to an average of 300 customers per day.Properly maintained cleanliness and upkeep of  the bar.Found ways to expedite and improve drink quality without sacrificing time.Key Accomplishments:Introduced multiple new drinks to the bar.Led the company in donations for a local highschool.Actively led store in sales for both promotional and basic menu items"
       }
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
+        "name":"JavaScript"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"MongoDB"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"ReactJs"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name":"CSS"
       },
       {
-        "name":"PHP",
-        "level":"80%"
+        "name":"JSON"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"Rest API"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"jquery"
+      },
+      {
+        "name": "Express"
+        
+      },
+      {
+        "name": "MySQL"
+        
+      },
+      {
+        "name": "NoSQL"
+        
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Middle Point",
+        "category":"Traveling somewhere far? Meeting somebody close? Middle Point finds the perfect location for all occasions",
+        "image":"middle-pic.jpg",
+        "url":"https://xtreme6007.github.io/Middle-Point-TAPS/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"White Glove Detailing",
+        "category":"This application is the basis for a buisness that that provides car qashing services while customrs shop at malls, grocery stores, etc...",
+        "image":"proj2.png",
+        "url":"https://shop-and-fix.herokuapp.com/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Work-Em-Out",
+        "category":"This website is built to be able to track complete and add new workouts",
+        "image":"WorkOut1.png",
+        "url":"https://sleepy-forest-69419.herokuapp.com/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Track-A-Budget",
+        "category":"This application will help you add deposits and expenses online or offline to help keep track of your budget",
+        "image":"budget.png",
+        "url":"https://track-a-budget.herokuapp.com/"
       }
     ]
   }
