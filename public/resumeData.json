@@ -96,7 +96,7 @@
       {
         "title":"Middle Point",
         "category":"Traveling somewhere far? Meeting somebody close? Middle Point finds the perfect location for all occasions",
-        "image":"middle-pic.jpg",
+        "image":"Middle-pic.jpg",
         "url":"https://xtreme6007.github.io/Middle-Point-TAPS/"
       },
       {
@@ -108,13 +108,13 @@
       {
         "title":"Work-Em-Out",
         "category":"This website is built to be able to track complete and add new workouts",
-        "image":"WorkOut1.png",
+        "image":"Workout1.png",
         "url":"https://sleepy-forest-69419.herokuapp.com/"
       },
       {
         "title":"Track-A-Budget",
         "category":"This application will help you add deposits and expenses online or offline to help keep track of your budget",
-        "image":"budget.png",
+        "image":"Budget.png",
         "url":"https://track-a-budget.herokuapp.com/"
       }
     ]
