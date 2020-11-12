@@ -76,7 +76,7 @@ class Resume extends Component {
 
          <div className="nine columns main-col">
 
-            <p>{skillmessage}
+            <p>While i have used many diffrent tools and languages, such as Javascript, SQL and noSQL databases, Node and various other front end and back end technologies I am very adatable to new endevaors.
             </p>
 
 				<div >
